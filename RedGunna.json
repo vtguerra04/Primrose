@@ -27,11 +27,11 @@
     ],
     "INTERACTIVE_NORMAL": [
       "#ff0026",
-      "#141414"
+      "#4f5660"
     ],
     "INTERACTIVE_HOVER": [
       "#dcddde",
-      "#2e3338"
+      "#141414"
     ],
     "INTERACTIVE_ACTIVE": [
       "#ffffff",
