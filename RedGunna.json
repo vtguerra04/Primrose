@@ -26,8 +26,8 @@
       "#f70233"
     ],
     "INTERACTIVE_NORMAL": [
-      "#403d3d",
-      "#4f5660"
+      "#ff0026",
+      "#141414"
     ],
     "INTERACTIVE_HOVER": [
       "#dcddde",
@@ -38,7 +38,7 @@
       "#060607"
     ],
     "INTERACTIVE_MUTED": [
-      "#403d3d",
+      "#ff0026",
       "#c7ccd1"
     ],
     "BACKGROUND_PRIMARY": [
