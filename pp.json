@@ -1,10 +1,10 @@
 {
-  "name": "funni",
-  "description": "red",
-  "version": "10.0",
+  "name": "RedGunna",
+  "description": "Red Gunna Theme ha.. BRUH LETS GET ITTT!!",
+  "version": "9.0",
   "authors": [
     {
-      "name": "kingofcap",
+      "name": "myrayuo",
       "id": "1024122816016171008"
     }
   ],
@@ -138,8 +138,8 @@
     "PRIMARY_DARK_360": "#eb0e33",
     "PRIMARY_DARK_400": "#807c7c",
     "PRIMARY_DARK_500": "#34a4fa",
-    "PRIMARY_DARK_600": "#807c7c",
-    "PRIMARY_DARK_630": "#807c7c",
+    "PRIMARY_DARK_600": "#141414",
+    "PRIMARY_DARK_630": "#141414",
     "PRIMARY_DARK_700": "#101010",
     "PRIMARY_DARK_800": "#151515",
     "BRAND_NEW": "#12a0ff",
