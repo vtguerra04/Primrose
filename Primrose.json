@@ -1,11 +1,11 @@
 {
-  "name": "RedGunna",
+  "name": "Primrose",
   "description": "Personal Theme",
   "version": "9.0",
   "authors": [
     {
-      "name": "zee",
-      "id": "1024122816016171008"
+      "name": "Revertz",
+      "id": "1056288327399129108"
     }
   ],
   "theme_color_map": {
@@ -151,7 +151,7 @@
   },
   "background": {
     "blur": 13.4,
-    "url": "https://media.discordapp.net/attachments/996426870633545831/1000918770723864657/7C6C27F8-234B-4231-9CD9-3D8F1E9266EB.jpg",
+    "url": "https://cdn.discordapp.com/attachments/1057825317114355744/1070053814826188930/7C6C27F8-234B-4231-9CD9-3D8F1E9266EB.jpg",
     "alpha": 1.0
   }
 }
