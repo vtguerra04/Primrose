@@ -1,7 +1,7 @@
 {
   "name": "Primrose",
-  "description": "Personal Theme",
-  "version": "9.0",
+  "description": "Dark red, black, and gray theme",
+  "version": "1.0",
   "authors": [
     {
       "name": "Revertz",
@@ -151,7 +151,7 @@
   },
   "background": {
     "blur": 13.4,
-    "url": "https://cdn.discordapp.com/attachments/1057825317114355744/1070053814826188930/7C6C27F8-234B-4231-9CD9-3D8F1E9266EB.jpg",
+    "url": "https://cdn.discordapp.com/attachments/1075413927862747178/1075413955914248263/7C6C27F8-234B-4231-9CD9-3D8F1E9266EB.jpg",
     "alpha": 1.0
   }
 }
