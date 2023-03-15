@@ -1,1 +1,1 @@
-# I don't care what you do with this
+# I made this theme because my favorite colors are Red Grey
